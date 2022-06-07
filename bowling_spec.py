@@ -26,4 +26,3 @@ class TestGame(unittest.TestCase):
 
 TestGame().test_all_gutter_balls()
 TestGame().test_all_ones()
-
